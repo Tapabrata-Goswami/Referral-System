@@ -23,9 +23,11 @@
         </div>
         <div class="dashboard-details">
             <div class="side-bar">
-                <div class="details image">
-                    <img class="user-image" src="#">
-                    <p class="name-user">Tapabrta</p>
+                <div class="details-image">
+                    <div class="user-image">
+                        <img src="./images/WhatsApp Image 2023-04-05 at 19.51.07.jpg" width="100" height="100" >
+                    </div>
+                    <p class="name-user">Tapabrta Goswami</p>
                 </div>
                 <div class="details account-details">Account Details</div>
                 <div class="details bank-account">Bank Account</div>
@@ -38,6 +40,6 @@
             <div class="container-details"></div>
         </div>
     </section>
-<footer>hello</footer>
+
 </body>
 </html>
